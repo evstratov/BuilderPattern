@@ -1,0 +1,11 @@
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csprojAssemblyReference.cache
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfoInputs.cache
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfo.cs
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.exe
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.deps.json
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.json
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.dev.json
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.dll
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.pdb
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.dll
+E:\C# Projects\Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.pdb
